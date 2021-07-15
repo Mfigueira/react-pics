@@ -1,8 +1,8 @@
-# React Seasons
+# React Pics
 
 ## What is this?
 
-This is simple project I made with CRA to practice React concepts. It uses the Geolocation API to fetch the user's location and determine with the current month if the user is in Winter or Summer season.
+This is simple project I made with CRA to practice React concepts. It uses the Unsplash API to fetch images based on a user's input and creates a grid layout with the first 10 images using Ref DOM access.
 
 Based on lectures from Stephen Grider's React course.
 
